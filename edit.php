@@ -1,0 +1,1 @@
+<?php echo "Chaing Mai Rajabhat university";
